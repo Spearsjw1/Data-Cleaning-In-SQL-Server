@@ -1,3 +1,8 @@
+/*
+
+Cleaning Data in SQL Queries
+
+*/
 SELECT * 
 FROM PortfolioProject.dbo.NashvilleHousing
 
